@@ -1,3 +1,4 @@
 
 Hello! This is First DevOps Practical.Today is Thusday.
 
+HELLO! Welcometo the Devops world.
